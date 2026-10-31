@@ -77,10 +77,6 @@ The dataset contains financial transaction records with information about:
 ## 8. Power BI Dashboard
 An interactive Power BI dashboard is developed to visualize financial transaction patterns, fraud distribution, and risk-related insights.
 
-**Dashboard Screenshot:**
-
-![Financial Fraud Dashboard](Dashboard/dashboard_screenshot.png)
-
 ## 9. Key Outcomes
 - Improved transaction data quality through data cleaning and preprocessing.
 - Identified patterns in fraudulent and non-fraudulent transactions.
